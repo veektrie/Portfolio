@@ -1,8 +1,8 @@
-import React from "react";
-import "./testimonial.scss";
+// import React from "react";
+// import "./testimonial.scss";
 
-const testimonial = () => {
-  return <div>testimonial</div>;
-};
+// const testimonial = () => {
+//   return <div>testimonial</div>;
+// };
 
-export default testimonial;
+// export default testimonial;
